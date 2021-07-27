@@ -1,3 +1,5 @@
+/* asterisks indicates that it sets the specified actions for the whole page */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -86,6 +88,8 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidated benefit-lead, benefit-brand, and benefit-cost into benefit-block */
+
 .benefit-block {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +105,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* consolidated search-engine-optimization, online-reputation-management, and social-media-marketing into main-service */
 
 .main-service {
     margin-bottom: 20px;
